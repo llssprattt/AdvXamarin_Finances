@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MOzAUZJOBgAKsbTXnPbc+HzTAzS+6TmhtXsO/fR7Bnodi9YYFBO1nW/PgRzEYqLmkvzCKlcLBVNVCaX+SgzKKg==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\Finances\\Finances\\Finances.iOS\\Finances.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\llssp\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\llssp\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\llssp\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\llssp\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

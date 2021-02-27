@@ -1,0 +1,15 @@
+D:\source\repos\Finances\Finances\Finances\bin\Debug\netstandard2.0\Finances.deps.json
+D:\source\repos\Finances\Finances\Finances\bin\Debug\netstandard2.0\Finances.dll
+D:\source\repos\Finances\Finances\Finances\bin\Debug\netstandard2.0\ref\Finances.dll
+D:\source\repos\Finances\Finances\Finances\bin\Debug\netstandard2.0\Finances.pdb
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.csprojAssemblyReference.cache
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Views\PostPage.xaml.g.cs
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.AssemblyInfoInputs.cache
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.AssemblyInfo.cs
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.csproj.CoreCompileInputs.cache
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\XamlC.stamp
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.dll
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\ref\Finances.dll
+D:\source\repos\Finances\Finances\Finances\obj\Debug\netstandard2.0\Finances.pdb
